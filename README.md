@@ -4,9 +4,8 @@ An ATS-style resume analysis system built using Natural Language Processing (NLP
 This project focuses on extracting, normalizing, and evaluating resume skills
 against a job description with explainable, section-aware scoring.
 
-The system is designed with scalability in mind and serves as a foundation for a
-future full-stack application aimed at helping students analyze and improve their
-application documents.
+The system is designed as a foundation for a future full-stack application 
+aimed at helping students analyze and improve their application documents.
 
 ---
 
@@ -32,13 +31,6 @@ Instead of relying on heavy machine learning models, this system uses:
 - Explicit normalization rules
 - Evidence-based reasoning
 - Transparent scoring logic
-
-This makes the system:
-- Explainable
-- Debuggable
-- Extendable
-- Suitable for real-world ATS-style analysis
-
 ---
 
 ## 📁 Project Structure
@@ -95,6 +87,7 @@ sql: SKILLS, EXPERIENCE
 machine learning: SKILLS, PROJECTS
 tensorflow: PROJECTS
 scikit-learn: PROJECTS
+
 🚀 Planned Extensions (Future Work)
 This project is intentionally designed to scale into a full-stack application
 to support students during university and job applications.
