@@ -1,0 +1,3 @@
+We are looking for a data scientist with strong skills in Python,
+machine learning, data analysis, and experience with TensorFlow
+and cloud platforms such as AWS.

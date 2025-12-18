@@ -1,0 +1,15 @@
+skill,type
+Python,LANGUAGE
+Java,LANGUAGE
+SQL,LANGUAGE
+JavaScript,LANGUAGE
+machine learning,SKILL
+data analysis,SKILL
+natural language processing,SKILL
+TensorFlow,TOOL
+PyTorch,TOOL
+scikit-learn,TOOL
+Pandas,TOOL
+NumPy,TOOL
+AWS Certified,CERTIFICATION
+Google Data Engineer,CERTIFICATION
